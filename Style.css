@@ -1,0 +1,72 @@
+
+body{
+	background-image:  url(http://blog.hdwallsource.com/wp-content/uploads/2015/04/green-geometric-wallpaper-44020-45115-hd-wallpapers.jpg.png);
+                    
+  	background-color: transparent;
+}
+
+header{
+	font-family: arial
+	color: black;
+	text-align: center;
+font-size: 35px;
+color: white;}
+
+div .summary{
+	text-align: center;
+	font: Helvetica;
+	font-size: 22px;
+	color: grey;
+	font-weight: bold;
+
+}
+
+div #zen-preamble{
+	background:black ;
+    color: #84BD8F;
+    margin: 25px;
+    float: left;
+   text-align: center;
+   font-family: Arial;}
+    
+ div #zen-explanation{
+	background:black ;
+    color: #AFD6B2;
+    margin: 25px;
+    float: left;
+   text-align: center;
+   font-family: Arial;}
+
+div .participation {
+	width: 33%; 
+    height: 660px; 
+    background:#448C56 ;
+    color: white;
+    float: left;
+    margin: 2px;
+    font-family: Helvetica;
+    
+}
+
+div .benefits {
+	width: 30%; 
+    height: 660px; 
+    background:#448C56 ;
+    color: white;
+    float: right;
+    margin: 8px;
+    font-family: Helvetica;
+    
+}
+
+div .requirements{
+		width: 33%; 
+    height: 660px; 
+    background:#448C56 ;
+    color: white;
+    float: right; 
+    margin: 6px;
+    font-family: Helvetica;}
+
+}
+
